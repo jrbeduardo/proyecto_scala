@@ -1,0 +1,56 @@
+2025.02.24 18:20:53 INFO  Started: Metals version 1.5.1 in folders '/home/jrbeduardo/entrevistas/proyecto_scala' for client Visual Studio Code 1.67.2.[0m
+2025.02.24 18:20:54 INFO  time: initialize in 0.13s[0m
+feb. 24, 2025 6:22:31 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb. 24, 2025 6:22:53 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb. 24, 2025 6:22:55 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb. 24, 2025 6:22:55 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2025.02.24 18:23:39 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/Airport.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:23:39 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/Airport.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:23:39 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/Airport.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:23:58 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/Airport.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:23:58 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/Airport.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+feb. 24, 2025 6:23:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+feb. 24, 2025 6:23:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+feb. 24, 2025 6:23:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5
+2025.02.24 18:23:58 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/Airport.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:24:04 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:24:04 INFO  time: code lens generation in 6.46s[0m
+2025.02.24 18:24:04 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:24:05 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+feb. 24, 2025 6:24:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 12
+2025.02.24 18:24:05 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+feb. 24, 2025 6:24:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10
+2025.02.24 18:24:05 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:24:05 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+feb. 24, 2025 6:24:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 20
+feb. 24, 2025 6:24:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 17
+2025.02.24 18:24:07 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:24:08 INFO  time: code lens generation in 2.11s[0m
+2025.02.24 18:24:08 INFO  time: code lens generation in 2.63s[0m
+feb. 24, 2025 6:24:11 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb. 24, 2025 6:24:20 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+2025.02.24 18:25:17 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.24 18:25:21 INFO  no build target found for /home/jrbeduardo/entrevistas/proyecto_scala/src/main/scala/FileUtils.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+feb. 24, 2025 6:25:35 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb. 24, 2025 6:27:52 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb. 24, 2025 6:28:23 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb. 24, 2025 6:28:48 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb. 24, 2025 6:28:55 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
