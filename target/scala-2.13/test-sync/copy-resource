@@ -1,0 +1,1 @@
+[[{"${BASE}/src/test/resources/test_data.csv":["${BASE}/target/scala-2.13/test-classes/test_data.csv"]},{"${BASE}/target/scala-2.13/test-classes/test_data.csv":["${BASE}/src/test/resources/test_data.csv"]}],{"${BASE}/src/test/resources/test_data.csv":{"file":"file:///home/jrbeduardo/entrevistas/proyecto_scala/src/test/resources/test_data.csv","lastModified":1730886961000}}]

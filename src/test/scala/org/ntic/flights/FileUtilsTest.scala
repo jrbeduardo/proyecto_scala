@@ -2,6 +2,7 @@ package org.ntic.flights
 
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.should.Matchers
+import org.ntic.flights.data.{Flight, FlightsFileReport, FileUtils, Row, ReadObjects}
 
 class FileUtilsTest extends AnyFlatSpec with Matchers {
   "A line from a file" should "be invalid if there are empty columns" in {

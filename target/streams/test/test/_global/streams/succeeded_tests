@@ -1,0 +1,7 @@
+#Successful Tests
+#Wed Feb 26 14:00:08 CST 2025
+org.ntic.flights.data.TimeTest=1740600008607
+org.ntic.flights.FileUtilsTest=1740600008410
+org.ntic.flights.data.FlightTest=1740600008284
+org.ntic.flights.data.FlightDateTest=1740600008589
+org.ntic.flights.data.RowTest=1740600008478

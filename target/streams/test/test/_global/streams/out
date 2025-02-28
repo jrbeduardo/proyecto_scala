@@ -1,0 +1,61 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.ntic.flights.FileUtilsTest, org.scalatest.tools.Framework$$anon$1@5c2b5628, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.ntic.flights.data.FlightTest, org.scalatest.tools.Framework$$anon$1@5c2b5628, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFlightTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Flight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly initialized from string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Flight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly initialized from string with negative minutes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Flight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be delayed[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Flight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not be delayed[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Flight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be delayed with negative minutes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Flight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly initialized from Row[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTwo Flights[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be compared by actual arrival time[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFileUtilsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA line from a file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be invalid if there are empty columns[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA line from a file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid if there are not any empty columns[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA line from a file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be invalid if there are more columns than expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA line from a file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be invalid if there are less columns than expected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLines from file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be read correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFile lines[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be loaded correctly[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.ntic.flights.data.FlightDateTest, org.scalatest.tools.Framework$$anon$1@5c2b5628, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.ntic.flights.data.RowTest, org.scalatest.tools.Framework$$anon$1@5c2b5628, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(org.ntic.flights.data.TimeTest, org.scalatest.tools.Framework$$anon$1@5c2b5628, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRowTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Row[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a Try and be correctly initialized from string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFlightDateTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA FlightDate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly initialized from string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA FlightDate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should raise an Exception because of wrong string format[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA FlightDate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should print its value in corrected format: DD/MM/YYYY[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTimeTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Time[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly initialized from string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA time[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly initialized from negative minutes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA time[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly initialized minutes greater than the maximum minutes in a day[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 104 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 5, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 20, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.ntic.flights.FileUtilsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.ntic.flights.data.TimeTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.ntic.flights.data.FlightDateTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.ntic.flights.data.RowTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.ntic.flights.data.FlightTest[0m

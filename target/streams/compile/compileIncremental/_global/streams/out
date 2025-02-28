@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 23 products, 10 sources, 2 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/org/ntic/flights/FlightsLoaderApp.scala, ${BASE}/src/main/scala/org/ntic/flights/data/Airport.scala, ${BASE}/src/main/scala/org/ntic/flights/data/Row.scala, ${BASE}/src/main/scala/org/ntic/flights/data/Flight.scala, ${BASE}/src/main/scala/org/ntic/flights/data/FlightsFileReport.scala, ${BASE}/src/main/scala/org/ntic/flights/data/Time.scala, ${BASE}/src/main/scala/org/ntic/flights/data/ReadObjects.scala, ${BASE}/src/main/scala/org/ntic/flights/data/FlightDate.scala, ${BASE}/src/main/scala/org/ntic/flights/FlightsLoaderConfig.scala, ${BASE}/src/main/scala/org/ntic/flights/data/FileUtils.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

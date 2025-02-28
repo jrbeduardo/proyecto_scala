@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/jrbeduardo/entrevistas/proyecto_scala/target/scala-2.13/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/jrbeduardo/entrevistas/proyecto_scala/target/scala-2.13/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TimeTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileUtilsTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlightDateTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RowTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlightTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/jrbeduardo/entrevistas/proyecto_scala/target/scala-2.13/test-classes.bak[0m
